@@ -12,7 +12,7 @@ public class BinaryGap {
 
     @Test
     public void testSolution() {
-        assertEquals(2, new BinaryGap().solution(529));
+        assertEquals(4, new BinaryGap().solution(529));
     }
 
     public int solution(int N) {
