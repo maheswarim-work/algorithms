@@ -2,6 +2,9 @@ package main.java.hackerrank;
 
 import java.util.*;
 
+/**
+ * Quicksort
+ */
 class Player {
     String name;
     int score;
