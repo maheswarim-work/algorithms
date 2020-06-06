@@ -1,9 +1,9 @@
 package main.java;
 
-public class CharOccurenceString {
+public class VonCharOccurenceString {
 
     public static void main(String[] args) {
-        CharOccurenceString test = new CharOccurenceString();
+        VonCharOccurenceString test = new VonCharOccurenceString();
         //boolean result = test.solution("abba"); false
         // boolean result = test.solution("aa"); false
         // boolean result = test.solution("bb"); false
